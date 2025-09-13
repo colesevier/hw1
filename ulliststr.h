@@ -14,7 +14,7 @@ class ULListStr {
      * index (i.e. first=0, last=0 indicates none
      * of the elements of the array are used and
      * first=0, last=ARRSIZE indicates the array
-     * is fully occupied
+     * is fully occupied  
      */
     size_t first, last;
     Item *prev;
